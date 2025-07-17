@@ -1637,7 +1637,7 @@ ui <- fluidPage(
                   
                   # Similar degrees
                   div(class = "similar-degrees",
-                      div(class = "features-title", "Similar Degrees"),
+                      div(class = "features-title", "You May Be Interested In:"),
                       div(id = "similar_degrees_container",
                           # This will be populated dynamically
                           div(class = "similar-degree-card",
